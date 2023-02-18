@@ -183,7 +183,7 @@
 
 Лістинг під-програми Programm наведено на рисунку 5.1.
 
-![](RackMultipart20230218-1-la4iis_html_f046972c5950510d.png)
+![Image alt](https://github.com/danya-andrienko/Project-Industrial-controllers-and-their-software/blob/main/Рисунки/Programm.jpg)
 
 Рис.5.1 – Лістинг під-програми Programm
 
@@ -196,7 +196,7 @@
 
 Підпрограма analog\_variable показана на рисунку 5.2.
 
-![](RackMultipart20230218-1-la4iis_html_9a1cb31fdf9fb7ff.png)
+![Image alt](https://github.com/danya-andrienko/Project-Industrial-controllers-and-their-software/blob/main/Рисунки/analog_variable.jpg)
 
 Рис.5.2 – Підпрограма analog\_variable
 
@@ -207,7 +207,7 @@
 
 Під-програму PID\_controlerпоказано на рисунку 5.3.
 
-![](RackMultipart20230218-1-la4iis_html_c9e627fe5928f78e.png)
+![Image alt](https://github.com/danya-andrienko/Project-Industrial-controllers-and-their-software/blob/main/Рисунки/PID_controler.jpg)
 
 Рис.5.3 – Під-програма PID\_controler
 
@@ -219,7 +219,7 @@
 
 Підпрограму alarm показано на рисунку 5.4.
 
-![](RackMultipart20230218-1-la4iis_html_46701a8541af9565.png)
+![Image alt](https://github.com/danya-andrienko/Project-Industrial-controllers-and-their-software/blob/main/Рисунки/alarm.jpg)
 
 Рис.5.4 – Підпрограма alarm
 
@@ -235,7 +235,7 @@
 
 Підпрограма simulation\_le показана на рисунку 6.1.
 
-![](RackMultipart20230218-1-la4iis_html_4386199399ad357c.png)
+![Image alt](https://github.com/danya-andrienko/Project-Industrial-controllers-and-their-software/blob/main/Рисунки/simulation_le.jpg)
 
 Рис.6.1 – Підпрограма simulation\_le
 
@@ -246,7 +246,7 @@
 
 Підпрограма simulation\_input показана на рисунку 6.2.
 
-![](RackMultipart20230218-1-la4iis_html_f636129673612c7c.png)
+![Image alt](https://github.com/danya-andrienko/Project-Industrial-controllers-and-their-software/blob/main/Рисунки/simulation_input.jpg)
 
 Рис.6.2 – Підпрограма simulation\_input
 
@@ -270,7 +270,7 @@
 
 У програмному середовищі UNITY PRO імітацію вхідних сигналів можна проводити за допомогою функції WRITE\_TO\_INPUT цим методом можна імітувати натискання кнопок та спрацювання датчиків. Для спостереженням за зміною значень змінних можна створити операторський екран або таблицю анімації приклад таблиці анімації показано на рисунку 7.1.
 
-![](RackMultipart20230218-1-la4iis_html_a55108ceb274796d.png)
+![Image alt](https://github.com/danya-andrienko/Project-Industrial-controllers-and-their-software/blob/main/Рисунки/animation_table.jpg)
 
 Рис.7.1 – Таблиця анімації змінних
 
@@ -304,10 +304,10 @@
 
 Візуалізація проекту розроблена за стилем sxw\_stule\_1 у якому передбачено створення декількох сторінок з різними параметрами. Окрім створених автоматичним шляхом, було також створено сторінку налаштувань регулятора «Регулятор температури» яку зображено на рисунку 7.2, та модифіковано сторінку «Startub» яку зображено на рисунку 7.3 та на якій зобрашений об'єкт для якого розроблялось дане ПЗ.
 
-![](RackMultipart20230218-1-la4iis_html_43b04c2f0f406a0a.png)
+![Image alt](https://github.com/danya-andrienko/Project-Industrial-controllers-and-their-software/blob/main/Рисунки/reg_page.jpg)
 
 Рис.7.2 – Сторінка «Регулятор температури»
 
-![](RackMultipart20230218-1-la4iis_html_72d725b2cd7190d7.png)
+![Image alt](https://github.com/danya-andrienko/Project-Industrial-controllers-and-their-software/blob/main/Рисунки/startub.jpg)
 
 Рис.7.3 – Сторінка «Startub»
