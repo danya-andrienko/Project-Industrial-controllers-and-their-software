@@ -105,7 +105,7 @@
 
 Шасі BME XBP 0400 на 4 слоти з вбудованим ETHERNET.
 
-![Image alt](https://github.com/danya-andrienko/Project-Industrial-controllers-and-their-software/blob/main/Рисунки/Конфігурація ПЛК.jpg)
+![Image alt](https://github.com/danya-andrienko/Project-Industrial-controllers-and-their-software/blob/main/Рисунки/КонфігураціяПЛК.jpg)
 
 
 Рис.2.2 – Конфігурація контролера
