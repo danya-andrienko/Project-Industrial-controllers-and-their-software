@@ -120,7 +120,7 @@
 
 Рис.2.3 – Конфігурація модуля аналогових сигналів AMM0600
 
-![Image alt](https://github.com/danya-andrienko/Project-Industrial-controllers-and-their-software/blob/main/Рисунки/КонфігураціяCPU.jpg)
+![Image alt](https://github.com/danya-andrienko/Project-Industrial-controllers-and-their-software/blob/main/Рисунки/конфігураціяCPU.jpg)
 
 Рис.2.4 – Конфігурація процесорного модуля
 
